@@ -31,8 +31,8 @@ pip install numpy opencv-python matplotlib
 ## Usage
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Nef3rp1tou/NP_FINAL_HIT_A_BALL.git
+
 ```
 
 ### 2. Run the Main Program
@@ -60,7 +60,7 @@ python main.py
 ## Examples
 ### Example 1: Image-Based Target Detection
 1. Provide an image with circular targets:
-   ![Input Image Example](path/to/example-image.png)
+   ![Input Image Example](test2.png)
 2. The program detects the targets and computes trajectories.
 3. Animation visualizes projectiles hitting the targets.
 
